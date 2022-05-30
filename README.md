@@ -1,13 +1,15 @@
-# Minha Biografia
+# Minha Biografia 📖
+
 ## Quem sou eu?🧐
 Meu nome é Marcelo, @ProfMarceloMatos, e sou um grande entusiasta de programação.
 🧔🏽‍♀️
+
 ## O que eu faço ?🥸
 Sou professor de *Pensamento Computacional* nos colégios <br>
 **Colégio Estadual do Paraná <br>
 Colégio Júlia Wanderley**
 
-## Onde resido ? 
+## Onde resido ? 🏡
 Resido na cidade de Curitiba, capital do estado do Paraná
 
 ## Contato 📫
